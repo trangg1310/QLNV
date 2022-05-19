@@ -1,0 +1,18 @@
+{
+  "language": {
+    "en": {
+      "name":"Phuong Anh",
+      "address":"Ha Noi City",
+      "course1":"Android",
+      "course2":"PHP",
+      "course3":"iOS"
+    },
+    "vn": {
+      "name":"Phương Anh",
+      "address":"Thành phố Hà Nội",
+      "course1":"Lập trình Android",
+      "course2":"Lập trình PHP",
+      "course3":"Lập trình iOS"
+    }
+  }
+}
